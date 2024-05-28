@@ -1,0 +1,18 @@
+h1{ 
+  color:orangered;}
+h2{ 
+  color: blue;}
+p{ 
+  font-size:x-large; 
+  font-weight: 700;
+   word-spacing: 5px }
+img { 
+  border: 5px solid black;}
+body{
+  background: linear-gradient(180deg, rgb(147, 226, 238), #e1ffea22 40%);}
+th,td{
+  padding: 10px;
+  text-align: center;
+  font-size: x-large;
+}
+
